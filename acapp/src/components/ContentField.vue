@@ -42,7 +42,7 @@ div.go-back {
     user-select: none;
 }
 div.go-back:hover {
-    scale: 1.2;
+    transform: scale(1.2);
     transition: 200ms;
 }
 </style>
