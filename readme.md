@@ -2,7 +2,7 @@
 
 在线访问：https://app3420.acapp.acwing.com.cn/user/account/login/
 
-![](https://picgo-yangqing.oss-cn-hangzhou.aliyuncs.com/img/202303032335645.png)
+![](https://picgo-yangqing.oss-cn-hangzhou.aliyuncs.com/img/202303032336187.png)
 
 ## 游戏规则
 
